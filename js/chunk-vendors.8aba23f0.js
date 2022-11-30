@@ -402,7 +402,7 @@ const i=function(e){const t=[];let n=0;for(let r=0;r<e.length;r++){let i=e.charC
  * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
  * See the License for the specific language governing permissions and
  * limitations under the License.
- */const m=()=>h().__FIREBASE_DEFAULTS__,g=()=>{if("undefined"===typeof r)return;const e=Object({NODE_ENV:"production",BASE_URL:""}).__FIREBASE_DEFAULTS__;return e?JSON.parse(e):void 0},v=()=>{if("undefined"===typeof document)return;let e;try{e=document.cookie.match(/__FIREBASE_DEFAULTS__=([^;]+)/)}catch(n){return}const t=e&&c(e[1]);return t&&JSON.parse(t)},b=()=>{try{return m()||g()||v()}catch(e){return void console.info("Unable to get __FIREBASE_DEFAULTS__ due to: "+e)}},y=()=>{var e;return null===(e=b())||void 0===e?void 0:e.config};
+ */const m=()=>h().__FIREBASE_DEFAULTS__,g=()=>{if("undefined"===typeof r)return;const e=Object({NODE_ENV:"production",BASE_URL:"/"}).__FIREBASE_DEFAULTS__;return e?JSON.parse(e):void 0},v=()=>{if("undefined"===typeof document)return;let e;try{e=document.cookie.match(/__FIREBASE_DEFAULTS__=([^;]+)/)}catch(n){return}const t=e&&c(e[1]);return t&&JSON.parse(t)},b=()=>{try{return m()||g()||v()}catch(e){return void console.info("Unable to get __FIREBASE_DEFAULTS__ due to: "+e)}},y=()=>{var e;return null===(e=b())||void 0===e?void 0:e.config};
 /**
  * @license
  * Copyright 2017 Google LLC
