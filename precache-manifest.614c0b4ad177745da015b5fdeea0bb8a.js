@@ -1,15 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "359efd14f20d22b112e7d1501e7e809f",
-    "url": "/portfolio/Portfolio.html"
-  },
-  {
     "revision": "725cd86ba849274702f8",
     "url": "/portfolio/css/chunk-vendors.c6856b5e.css"
   },
   {
-    "revision": "4b3431cb0f1e41efa300",
-    "url": "/portfolio/css/main.82f32a6c.css"
+    "revision": "296cf8a56a47b41a7b31",
+    "url": "/portfolio/css/main.fd210c24.css"
   },
   {
     "revision": "e3ab75d5ce0d656c5721c5ee1751a86a",
@@ -44,27 +40,27 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/img/moin-landing-5.772bb776.png"
   },
   {
+    "revision": "193c9b416eeff986d46021515a52534d",
+    "url": "/portfolio/img/posty-plp-filter-1.193c9b41.png"
+  },
+  {
     "revision": "fb9b335ae6fb0c9104e2522992269648",
-    "url": "/portfolio/img/posty-plp-filter-1.fb9b335a.png"
+    "url": "/portfolio/img/posty-plp-filter-2.fb9b335a.png"
   },
   {
     "revision": "69811254fe48f7c82626094f0eadc5d0",
-    "url": "/portfolio/img/posty-plp-filter-2.69811254.png"
+    "url": "/portfolio/img/posty-plp-filter-3.69811254.png"
   },
   {
     "revision": "db3a85f8a79b06ff4c7e56400f958772",
-    "url": "/portfolio/img/posty-plp-filter-3.db3a85f8.png"
-  },
-  {
-    "revision": "193c9b416eeff986d46021515a52534d",
-    "url": "/portfolio/img/posty-plp-filter-4.193c9b41.png"
+    "url": "/portfolio/img/posty-plp-filter-4.db3a85f8.png"
   },
   {
     "revision": "9ee9a0c9ccba42053b1a4f6d251a454b",
     "url": "/portfolio/img/webpack5-logo.9ee9a0c9.png"
   },
   {
-    "revision": "ddbbe78bcd3011187aa37b9ca75ddfcd",
+    "revision": "12d099eae91e22c48e79ae8ff48ba43a",
     "url": "/portfolio/index.html"
   },
   {
@@ -72,8 +68,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/js/chunk-vendors.e695b651.js"
   },
   {
-    "revision": "4b3431cb0f1e41efa300",
-    "url": "/portfolio/js/main.cafd3dcb.js"
+    "revision": "296cf8a56a47b41a7b31",
+    "url": "/portfolio/js/main.d77dac08.js"
   },
   {
     "revision": "cd94e0936cfe1a0e01fb3f6323c97bad",
